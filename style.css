@@ -19,10 +19,12 @@ header {
 }
 
 .portfolio {
-  font-size: 100px;
-  font-weight: 700;
-  color: #ff69b4;
-  letter-spacing: -5px;
+  display: block;   /* biar konsisten */
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+  color: hotpink;
+  margin: 0;
 }
 
 .creative {
