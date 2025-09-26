@@ -74,11 +74,10 @@ img[data-role="hero-image"] {
 }
 
 .model-photo {
-  position: absolute;
-  left: 50%;
-  top: 40%;
-  transform: translate(-50%, -40%);
-  z-index: 2;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .footer {
