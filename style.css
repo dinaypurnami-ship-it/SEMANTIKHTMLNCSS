@@ -26,15 +26,13 @@ header {
 }
 
 .creative {
-  position: absolute;
-  top: -50px;
-  left: 0;
-  font-family: 'Playfair Display', serif;
-  font-size: 60px;
+  display: block;   /* bikin turun ke baris baru */
+  font-family: "Times New Roman", serif;
   font-style: italic;
-  color: #000;
-  z-index: 1;
+  font-size: 40px;
+  margin: 0;
 }
+
 
 /* 2. Selektor ID */
 #utama {
