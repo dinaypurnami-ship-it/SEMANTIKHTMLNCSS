@@ -14,3 +14,9 @@ body {
   font-weight: 400;
 }
 
+.portfolio {
+  font-size: 100px;
+  font-weight: 700;
+  color: #ff69b4;
+  letter-spacing: -5px;
+}
