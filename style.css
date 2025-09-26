@@ -20,3 +20,14 @@ body {
   color: #ff69b4;
   letter-spacing: -5px;
 }
+
+.creative {
+  position: absolute;
+  top: -50px;
+  left: 0;
+  font-family: 'Playfair Display', serif;
+  font-size: 60px;
+  font-style: italic;
+  color: #000;
+  z-index: 1;
+}
