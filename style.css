@@ -48,3 +48,8 @@ img[data-role="hero-image"] {
   height: auto;
 }
 
+/* 4. Pseudo-class Selector */
+.social-link:hover {
+  color: #1da1f2;
+  text-decoration: underline;
+}
